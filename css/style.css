@@ -31,3 +31,16 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background: #00b8eb
 }
+
+.header {
+  border-bottom: 1px solid #eee;
+  padding: 10px 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.header a{
+  color: #333;
+  text-decoration: none;
+
+}
