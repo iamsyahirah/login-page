@@ -7,6 +7,10 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
   <body>
+    <div class="header">
+      <a href="/">Your App Name</a>
+      </div>
+
     <h1>Login</h1>
 
     <form action="login.php" method="POST">
@@ -17,4 +21,4 @@
 
 
   </body>
-</html
+</html>
