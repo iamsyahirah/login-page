@@ -8,7 +8,7 @@
 </head>
   <body>
     <div class="header">
-      <a href="/">Your App Name</a>
+      <a href="index.php">Your App Name</a>
       </div>
 
     <h1>Login</h1>
